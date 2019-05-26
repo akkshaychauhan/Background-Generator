@@ -21,6 +21,7 @@ You have two things preinstalled on your machine either mac , windows or linux
 * Bootstrap
 * Javascript
 * DOM
+* Animate.css
 
 ## License
 
